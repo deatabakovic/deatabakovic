@@ -3,7 +3,7 @@
 — 🌱 I have a strong tendency towards automation. I am currently practicing automation using Selenium driver and API testing using Postman.
 — 👀  I also have interest in programming and building websites, so I am also learning skills using WordPress.
        Python is a programming language I like and practice with small projects on my own.
-- 📫 How to reach me ...
+- 📫 https://www.linkedin.com/in/dea-t-12aaa81a5
 
 <!---
 deatabakovic/deatabakovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
